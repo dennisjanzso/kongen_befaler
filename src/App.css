@@ -37,3 +37,18 @@
     transform: translateY(0px);
   }
 }
+
+.pointsContainer {
+  font-family: 'taskmaster';
+  background-image: url('media/stamp.png');
+  background-repeat: no-repeat;
+  color: white;
+  font-size: 50px;
+
+}
+
+.pluss-minus {
+  font-family: 'taskmaster';
+  color: white;
+  font-size: 50px;
+}

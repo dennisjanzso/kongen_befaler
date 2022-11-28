@@ -1,0 +1,5 @@
+export const UPDATE_EIRIK = "UPDATE_EIRIK"
+export const UPDATE_SILJE = "UPDATE_SILJE"
+export const UPDATE_THILLA = "UPDATE_THILLA"
+export const UPDATE_FREDRIK = "UPDATE_FREDRIK"
+
